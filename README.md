@@ -1,21 +1,27 @@
-# InternSpark Cybersecurity Internship
+# 🛡️ InternSpark Cybersecurity Internship
 
-This repository contains the practical tasks completed during the InternSpark Cybersecurity Internship.
+This repository contains the practical tasks completed during my InternSpark Cybersecurity Internship.
 
-## Tools Used
+## 👨‍💻 Environment
+
+- Operating System: Kali Linux
+- Target Machine: Metasploitable 2
+- Virtualization: Oracle VirtualBox
+
+## 🛠️ Tools Used
 
 - Kali Linux
-- Metasploitable 2
-- VirtualBox
 - Nmap
 - Wireshark
-- Linux Networking Tools
+- VirtualBox
+- Metasploitable 2
+- Linux Networking Utilities
 
-## Tasks
+## 📋 Completed Tasks
 
 - ✅ Task 1 – Reconnaissance & Vulnerability Scanning
 - ⏳ Task 2 – Web Application Security Basics
 - ⏳ Task 3 – Wireshark Packet Analysis
 - ⏳ Task 4 – Incident Response Simulation
 
-The repository will be updated as each task is completed.
+This repository will be updated as additional internship tasks are completed.
