@@ -20,7 +20,7 @@ This repository contains the practical tasks completed during my InternSpark Cyb
 ## 📋 Completed Tasks
 
 - ✅ Task 1 – Reconnaissance & Vulnerability Scanning
-- ⏳ Task 2 – Web Application Security Basics
+- ✅ Task 2 – Web Application Security Basics
 - ⏳ Task 3 – Wireshark Packet Analysis
 - ⏳ Task 4 – Incident Response Simulation
 
